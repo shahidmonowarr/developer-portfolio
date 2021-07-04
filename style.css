@@ -65,12 +65,14 @@ h2{
 #web-developer-experience{
     text-align: justify;
     border-left: 7px solid;
+    border-bottom: 7px solid;
     border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
 }
 #full-stack-experience{
     text-align: justify;
     border-left: 7px solid;
+    border-bottom: 7px solid;
     border-image: linear-gradient(purple, tomato);
     border-image-slice: 1;
 }
